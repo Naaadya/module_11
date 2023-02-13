@@ -1,0 +1,7 @@
+__pycache__
+env/
+.env
+sql.db
+orm.db
+test_orm.db
+.vscode/
